@@ -1,14 +1,15 @@
 <hr/>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <div align="left" style="width: 50%;">
+  <a target="_blank" align="center">
+  <img align="right" style="height: 260px; width: 410px;"src="https://i.pinimg.com/originals/9d/cb/36/9dcb36579d4518b31451906466dc735d.gif"/>
+  </a>
+  
+  <div style="width: 50%; margin: auto;">
     <img src="https://readme-typing-svg.herokuapp.com?duration=6500&color=000000&background=00000000&width=500&height=120&lines=Hi+%F0%9F%91%8B%2C+I'm+Vinuri+Kariyawasam">
-    <br/>
+  <br/>
     <img src="https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=Data+Science+undergraduate">
   </div>
-  <a target="_blank">
-    <img align="right" style="height: 260px; width: 410px;" src="https://i.pinimg.com/originals/9d/cb/36/9dcb36579d4518b31451906466dc735d.gif"/>
-  </a>
 </div>
 
 
