@@ -2,7 +2,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <a target="_blank" align="center">
-  <img align="right" style="height: 250px; width: 350px;"src="https://i.pinimg.com/originals/9d/cb/36/9dcb36579d4518b31451906466dc735d.gif"/>
+  <img align="right" style="height: 250px; width: 310px;"src="https://i.pinimg.com/originals/9d/cb/36/9dcb36579d4518b31451906466dc735d.gif"/>
   </a>
   
   <div style="width: 50%;">
