@@ -13,7 +13,7 @@
 </div>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vinurikariyawasam&label=Profile%20views&color=0e75b6&style=flat" alt="vinurikariyawasam" /> </p>
+<!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=vinurikariyawasam&label=Profile%20views&color=0e75b6&style=flat" alt="vinurikariyawasam" /> </p> -->
 
 - 🌱 I’m currently learning **Mern stack, Kotlin, Python**
 
