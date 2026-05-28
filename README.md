@@ -15,9 +15,9 @@
 
 <!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=vinurikariyawasam&label=Profile%20views&color=0e75b6&style=flat" alt="vinurikariyawasam" /> </p> -->
 
-- 🌱 I’m currently learning **Mern stack, Kotlin, Python**
+- 🌱 I’m currently learning **Agentic AI, Power Apps, Azure Fundamentals, and Data Pipeline Development**
 
-- 💬 Ask me about **Mern, Java, C, C++**
+- 💬 Ask me about **Machine Learning, Power BI, Data Warehousing, Data Analytics**
 
 - 📫 How to reach me **vinurikariyawasam8@gmail.com**
 
